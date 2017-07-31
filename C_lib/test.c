@@ -5,3 +5,9 @@ if(i=2;i++;i>10){
 }else{
     j=j+2;
 }
+
+switch
+case 0;
+case 1;
+// コメントです。
+
